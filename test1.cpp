@@ -19,7 +19,7 @@ bool isValid(int distance, const vector<int>& x, const vector<int>& y, int n, in
 } 
  
 int main() { 
-    int n, m; 
+    double n, m; 
     cin >> n >> m; 
  
     vector<int> x(n), y(m); 
